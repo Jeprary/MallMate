@@ -1,0 +1,862 @@
+{
+  "buildingId": "B02001H9JR",
+  "name": "太仓万达广场",
+  "floors": [
+    {
+      "floor": 1,
+      "ready": true,
+      "revision": "6e8b16f779bb412892459c61f97bc54f3702a193405778aa8e50a53b501ad059",
+      "assetVersion": "1d366888f188b2f9a58e077421362f3907ef73238638c23b4845646cf68cc41c"
+    },
+    {
+      "floor": 2,
+      "ready": true,
+      "revision": "8c827a07bce5e5a60b4eac841cb1dbd5db21955e5afc29aee9d9092fb0b556dd",
+      "assetVersion": "44ab2c126b739ba785ee0178a6206fff36414f49e500257eeb2da4805a54f524"
+    },
+    {
+      "floor": 3,
+      "ready": true,
+      "revision": "dc7415b0000f29ec05ea85d1dbb4cc16af0bf5e708c98a57b716fcb7b561ec3f",
+      "assetVersion": "594ba95d586c21f40f4b855bbe73747cffc5ac708775c96f7e284fd3e5fec194"
+    }
+  ],
+  "bindings": [
+    {
+      "floor": 1,
+      "regionId": "F1-P061",
+      "name": "UNIQLO",
+      "point": [
+        532,
+        432
+      ],
+      "poiId": "B02001HUD4",
+      "csvName": "优衣库(太仓万达广场店)"
+    },
+    {
+      "floor": 1,
+      "regionId": "F1-P047",
+      "name": "ONLY",
+      "point": [
+        1292,
+        276
+      ],
+      "poiId": "B02001HUBQ",
+      "csvName": "ONLY(太仓万达店)"
+    },
+    {
+      "floor": 1,
+      "regionId": "F1-P049",
+      "name": "JNBY",
+      "point": [
+        1404,
+        282
+      ],
+      "poiId": "B0H06DBZJJ",
+      "csvName": "JNBY(苏州太仓万达广场店)"
+    },
+    {
+      "floor": 1,
+      "regionId": "F1-P059",
+      "name": "edition",
+      "point": [
+        1560,
+        266
+      ],
+      "poiId": "B0H1O1X44S",
+      "csvName": "Edition(太仓万达广场店)"
+    },
+    {
+      "floor": 1,
+      "regionId": "F1-P040",
+      "name": "naivee",
+      "point": [
+        1710,
+        254
+      ],
+      "poiId": "B0L2VC8FJX",
+      "csvName": "naivee(太仓万达广场店)"
+    },
+    {
+      "floor": 1,
+      "regionId": "F1-P079",
+      "name": "六福珠宝",
+      "point": [
+        994,
+        420
+      ],
+      "poiId": "B0H606GN0J",
+      "csvName": "六福珠宝(苏州太仓万达店)"
+    },
+    {
+      "floor": 1,
+      "regionId": "F1-P103",
+      "name": "周大生",
+      "point": [
+        738,
+        546
+      ],
+      "poiId": "B0JDBSIVR0",
+      "csvName": "周大生(太仓万达广场店)"
+    },
+    {
+      "floor": 1,
+      "regionId": "F1-P088",
+      "name": "老庙黄金",
+      "point": [
+        940,
+        614
+      ],
+      "poiId": "B0FFLESTO7",
+      "csvName": "老庙黄金(苏州太仓万达广场店)"
+    },
+    {
+      "floor": 1,
+      "regionId": "F1-P084",
+      "name": "以纯",
+      "point": [
+        1164,
+        632
+      ],
+      "poiId": "B0FFH9VD2R",
+      "csvName": "以纯(万达广场店)"
+    },
+    {
+      "floor": 1,
+      "regionId": "F1-P082",
+      "name": "ANTA",
+      "point": [
+        1474,
+        578
+      ],
+      "poiId": "B0IUKC1U0O",
+      "csvName": "安踏(苏州太仓万达广场店)"
+    },
+    {
+      "floor": 1,
+      "regionId": "F1-P087",
+      "name": "DAZZLE",
+      "point": [
+        1648,
+        440
+      ],
+      "poiId": "B0I1VYWT2H",
+      "csvName": "DAZZLE(太仓万达广场店)"
+    },
+    {
+      "floor": 1,
+      "regionId": "F1-P097",
+      "name": "LI-NING",
+      "point": [
+        1660,
+        592
+      ],
+      "poiId": null,
+      "csvName": null
+    },
+    {
+      "floor": 1,
+      "regionId": "F1-P109",
+      "name": "SKECHERS",
+      "point": [
+        514,
+        694
+      ],
+      "poiId": "B0FFI9MOCL",
+      "csvName": "SKECHERS 斯凯奇(苏州太仓万达广场店)"
+    },
+    {
+      "floor": 1,
+      "regionId": "F1-P115",
+      "name": "龙凤珠宝",
+      "point": [
+        732,
+        652
+      ],
+      "poiId": "B0FFFDKY2I",
+      "csvName": "龙凤珠宝(万达广场太仓店)"
+    },
+    {
+      "floor": 1,
+      "regionId": "F1-P144",
+      "name": "中国黄金",
+      "point": [
+        600,
+        850
+      ],
+      "poiId": "B0LRF57EHZ",
+      "csvName": "中国黄金(苏州太仓万达广场店)"
+    },
+    {
+      "floor": 1,
+      "regionId": "F1-P147",
+      "name": "Shenhui",
+      "point": [
+        828,
+        846
+      ],
+      "poiId": null,
+      "csvName": null
+    },
+    {
+      "floor": 1,
+      "regionId": "F1-P148",
+      "name": "SANFU",
+      "point": [
+        932,
+        1036
+      ],
+      "poiId": "B0L6ZH2C63",
+      "csvName": "三福时尚(苏州太仓万达广场店)"
+    },
+    {
+      "floor": 1,
+      "regionId": "F1-P168",
+      "name": "HUAWEI",
+      "point": [
+        1580,
+        1136
+      ],
+      "poiId": "B0FFI56LRK",
+      "csvName": "华为授权体验店(太仓万达)"
+    },
+    {
+      "floor": 1,
+      "regionId": "F1-P038",
+      "name": "阿玛施",
+      "point": [
+        870,
+        200
+      ],
+      "poiId": null,
+      "csvName": null
+    },
+    {
+      "floor": 2,
+      "regionId": "F2-P010",
+      "name": "SEPTWOLVES",
+      "point": [
+        708,
+        202
+      ],
+      "poiId": null,
+      "csvName": null
+    },
+    {
+      "floor": 2,
+      "regionId": "F2-P014",
+      "name": "雅莹",
+      "point": [
+        868,
+        192
+      ],
+      "poiId": null,
+      "csvName": null
+    },
+    {
+      "floor": 2,
+      "regionId": "F2-P016",
+      "name": "POLO-WALK",
+      "point": [
+        1798,
+        210
+      ],
+      "poiId": "B0FFK8WRQH",
+      "csvName": "POLO WALK(太仓万达广场店)"
+    },
+    {
+      "floor": 2,
+      "regionId": "F2-P033",
+      "name": "APO",
+      "point": [
+        1910,
+        286
+      ],
+      "poiId": "B0JDVHRH0X",
+      "csvName": "APO超级配镜(太仓万达店)"
+    },
+    {
+      "floor": 2,
+      "regionId": "F2-P044",
+      "name": "伊维斯",
+      "point": [
+        1944,
+        438
+      ],
+      "poiId": null,
+      "csvName": null
+    },
+    {
+      "floor": 2,
+      "regionId": "F2-P056",
+      "name": "屈臣氏",
+      "point": [
+        1660,
+        518
+      ],
+      "poiId": "B0FFFDVFZM",
+      "csvName": "屈臣氏(苏州太仓万达广场店)"
+    },
+    {
+      "floor": 2,
+      "regionId": "F2-P053",
+      "name": "利郎",
+      "point": [
+        1414,
+        562
+      ],
+      "poiId": "B0H2XSGBPP",
+      "csvName": "利郎(万达广场太仓店)"
+    },
+    {
+      "floor": 2,
+      "regionId": "F2-P071",
+      "name": "回力1927",
+      "point": [
+        1678,
+        670
+      ],
+      "poiId": null,
+      "csvName": null
+    },
+    {
+      "floor": 2,
+      "regionId": "F2-P088",
+      "name": "耐克",
+      "point": [
+        1642,
+        790
+      ],
+      "poiId": "B02001G7L3",
+      "csvName": "耐克Nike(太仓万达广场店)"
+    },
+    {
+      "floor": 2,
+      "regionId": "F2-P077",
+      "name": "意尔康",
+      "point": [
+        1906,
+        660
+      ],
+      "poiId": "B0K6D47ZJQ",
+      "csvName": "意尔康(苏州太仓万达广场店)"
+    },
+    {
+      "floor": 2,
+      "regionId": "F2-P054",
+      "name": "好波",
+      "point": [
+        1060,
+        440
+      ],
+      "poiId": null,
+      "csvName": null
+    },
+    {
+      "floor": 2,
+      "regionId": "F2-P061",
+      "name": "MH·PAR",
+      "point": [
+        876,
+        526
+      ],
+      "poiId": null,
+      "csvName": null
+    },
+    {
+      "floor": 2,
+      "regionId": "F2-P070",
+      "name": "Balabala",
+      "point": [
+        918,
+        664
+      ],
+      "poiId": "B0FFHCJOBS",
+      "csvName": "巴拉巴拉(苏州太仓万达广场店)"
+    },
+    {
+      "floor": 2,
+      "regionId": "F2-P069",
+      "name": "妮嘉宝贝",
+      "point": [
+        1154,
+        596
+      ],
+      "poiId": "B0FFK0QPWL",
+      "csvName": "妮嘉宝贝(太仓万达广场店)"
+    },
+    {
+      "floor": 2,
+      "regionId": "F2-P076",
+      "name": "大玩家超乐场",
+      "point": [
+        1514,
+        974
+      ],
+      "poiId": null,
+      "csvName": null
+    },
+    {
+      "floor": 3,
+      "regionId": "F3-P004",
+      "name": "陕九门",
+      "point": [
+        1712,
+        162
+      ],
+      "poiId": null,
+      "csvName": null
+    },
+    {
+      "floor": 3,
+      "regionId": "F3-P009",
+      "name": "大渝火锅",
+      "point": [
+        720,
+        190
+      ],
+      "poiId": null,
+      "csvName": null
+    },
+    {
+      "floor": 3,
+      "regionId": "F3-P010",
+      "name": "半仓小馆",
+      "point": [
+        784,
+        154
+      ],
+      "poiId": null,
+      "csvName": null
+    },
+    {
+      "floor": 3,
+      "regionId": "F3-P011",
+      "name": "浅草君",
+      "point": [
+        875,
+        164
+      ],
+      "poiId": null,
+      "csvName": null
+    },
+    {
+      "floor": 3,
+      "regionId": "F3-P012",
+      "name": "抚仙渔王蒸汽石锅鱼",
+      "point": [
+        1628,
+        206
+      ],
+      "poiId": "B0LG6SHL6J",
+      "csvName": "抚仙渔王·蒸汽石锅鱼(太仓万达店)"
+    },
+    {
+      "floor": 3,
+      "regionId": "F3-P013",
+      "name": "筋牛座",
+      "point": [
+        1095,
+        183
+      ],
+      "poiId": null,
+      "csvName": null
+    },
+    {
+      "floor": 3,
+      "regionId": "F3-P014",
+      "name": "南枝记",
+      "point": [
+        1206,
+        202
+      ],
+      "poiId": null,
+      "csvName": null
+    },
+    {
+      "floor": 3,
+      "regionId": "F3-P026",
+      "name": "玄牧·和牛涮烤自助",
+      "point": [
+        973,
+        255
+      ],
+      "poiId": null,
+      "csvName": null
+    },
+    {
+      "floor": 3,
+      "regionId": "F3-P027",
+      "name": "潮汕酱记鲜牛肉火锅厂",
+      "point": [
+        1949,
+        324
+      ],
+      "poiId": "B0G2HPPC31",
+      "csvName": "潮汕酱记鲜牛肉火锅(太仓万达)"
+    },
+    {
+      "floor": 3,
+      "regionId": "F3-P028",
+      "name": "欧诺拉牛排自助餐厅",
+      "point": [
+        1314,
+        266
+      ],
+      "poiId": null,
+      "csvName": null
+    },
+    {
+      "floor": 3,
+      "regionId": "F3-P030",
+      "name": "韩宫宴",
+      "point": [
+        1455,
+        266
+      ],
+      "poiId": "B0FFK64F6J",
+      "csvName": "韩宫宴炭火烤肉(太仓万达广场店)"
+    },
+    {
+      "floor": 3,
+      "regionId": "F3-P032",
+      "name": "小菜园",
+      "point": [
+        576,
+        335
+      ],
+      "poiId": "B0FFIKF3SU",
+      "csvName": "小菜园新徽菜(苏州太仓万达店)"
+    },
+    {
+      "floor": 3,
+      "regionId": "F3-P038",
+      "name": "迷客夏",
+      "point": [
+        1649,
+        354
+      ],
+      "poiId": null,
+      "csvName": null
+    },
+    {
+      "floor": 3,
+      "regionId": "F3-P041",
+      "name": "阿甘锅盔",
+      "point": [
+        1300,
+        351
+      ],
+      "poiId": "B0FFK20J4I",
+      "csvName": "阿甘锅盔(太仓万达广场店)"
+    },
+    {
+      "floor": 3,
+      "regionId": "F3-P042",
+      "name": "久久丫鸭脖",
+      "point": [
+        1475,
+        352
+      ],
+      "poiId": null,
+      "csvName": null
+    },
+    {
+      "floor": 3,
+      "regionId": "F3-P043",
+      "name": "小句号",
+      "point": [
+        948,
+        460
+      ],
+      "poiId": null,
+      "csvName": null
+    },
+    {
+      "floor": 3,
+      "regionId": "F3-P050",
+      "name": "西塔老太太",
+      "point": [
+        623,
+        450
+      ],
+      "poiId": "B0I2LSYFWE",
+      "csvName": "西塔老太太泥炉烤肉(太仓万达店)"
+    },
+    {
+      "floor": 3,
+      "regionId": "F3-P058",
+      "name": "星洲小馆",
+      "point": [
+        647,
+        522
+      ],
+      "poiId": null,
+      "csvName": null
+    },
+    {
+      "floor": 3,
+      "regionId": "F3-P061",
+      "name": "春杏古早味",
+      "point": [
+        744,
+        517
+      ],
+      "poiId": "B0FFL5LGZS",
+      "csvName": "春杏古早味(太仓万达广场店)"
+    },
+    {
+      "floor": 3,
+      "regionId": "F3-P068",
+      "name": "百分茶",
+      "point": [
+        663,
+        602
+      ],
+      "poiId": "B0FFLP31QX",
+      "csvName": "百分茶(太仓万达店)"
+    },
+    {
+      "floor": 3,
+      "regionId": "F3-P072",
+      "name": "老城区炭火蛙锅",
+      "point": [
+        620,
+        660
+      ],
+      "poiId": null,
+      "csvName": null
+    },
+    {
+      "floor": 3,
+      "regionId": "F3-P075",
+      "name": "闻溪有渔",
+      "point": [
+        625,
+        703
+      ],
+      "poiId": "B0IK7C77BN",
+      "csvName": "闻溪有渔(万达广场店)"
+    },
+    {
+      "floor": 3,
+      "regionId": "F3-P080",
+      "name": "肖四女乐山跷脚牛肉",
+      "point": [
+        615,
+        783
+      ],
+      "poiId": null,
+      "csvName": null
+    },
+    {
+      "floor": 3,
+      "regionId": "F3-P060",
+      "name": "原始煮意",
+      "point": [
+        832,
+        610
+      ],
+      "poiId": "B0FFH1JCHC",
+      "csvName": "原始煮意·地锅鸡守艺者(太仓万达店)"
+    },
+    {
+      "floor": 3,
+      "regionId": "F3-P087",
+      "name": "胖哥俩肉蟹煲",
+      "point": [
+        895,
+        822
+      ],
+      "poiId": "B0HRZXPY27",
+      "csvName": "胖哥俩肉蟹煲(太仓万达店)"
+    },
+    {
+      "floor": 3,
+      "regionId": "F3-P098",
+      "name": "星伦多自助料理",
+      "point": [
+        903,
+        1031
+      ],
+      "poiId": null,
+      "csvName": null
+    },
+    {
+      "floor": 3,
+      "regionId": "F3-P102",
+      "name": "海马爸爸亲子水育俱乐部",
+      "point": [
+        1172,
+        1058
+      ],
+      "poiId": null,
+      "csvName": null
+    },
+    {
+      "floor": 3,
+      "regionId": "F3-P053",
+      "name": "孩子王",
+      "point": [
+        1050,
+        650
+      ],
+      "poiId": "B0FFHWG2QC",
+      "csvName": "孩子王(太仓万达广场店)"
+    },
+    {
+      "floor": 3,
+      "regionId": "F3-P047",
+      "name": "手耕扯面",
+      "point": [
+        1100,
+        555
+      ],
+      "poiId": null,
+      "csvName": null
+    },
+    {
+      "floor": 3,
+      "regionId": "F3-P048",
+      "name": "雍哲港式餐厅",
+      "point": [
+        1598,
+        533
+      ],
+      "poiId": "B0JUTUDJY2",
+      "csvName": "雍哲港式餐厅(太仓万达店)"
+    },
+    {
+      "floor": 3,
+      "regionId": "F3-P059",
+      "name": "庆江南江南菜",
+      "point": [
+        1700,
+        583
+      ],
+      "poiId": "B0FFIA71E1",
+      "csvName": "庆江南江南菜(太仓万达店)"
+    },
+    {
+      "floor": 3,
+      "regionId": "F3-P071",
+      "name": "味千拉面",
+      "point": [
+        1679,
+        671
+      ],
+      "poiId": "B0IAJ4PZLC",
+      "csvName": "味千拉面(苏州太仓万达广场店)"
+    },
+    {
+      "floor": 3,
+      "regionId": "F3-P077",
+      "name": "大美西北西北风味小馆",
+      "point": [
+        1677,
+        747
+      ],
+      "poiId": null,
+      "csvName": null
+    },
+    {
+      "floor": 3,
+      "regionId": "F3-P073",
+      "name": "麦当劳",
+      "point": [
+        1931,
+        709
+      ],
+      "poiId": "B020018B66",
+      "csvName": "麦当劳(苏州太仓万达广场店)"
+    },
+    {
+      "floor": 3,
+      "regionId": "F3-P093",
+      "name": "DQ",
+      "point": [
+        1731,
+        854
+      ],
+      "poiId": "B0I6FAIK3J",
+      "csvName": "DQ·蛋糕·冰淇淋(太仓万达店)"
+    },
+    {
+      "floor": 3,
+      "regionId": "F3-P092",
+      "name": "7分甜",
+      "point": [
+        1894,
+        855
+      ],
+      "poiId": null,
+      "csvName": null
+    },
+    {
+      "floor": 3,
+      "regionId": "F3-P099",
+      "name": "星越泰",
+      "point": [
+        1957,
+        937
+      ],
+      "poiId": "B0FFK6E3LT",
+      "csvName": "星越泰·东南亚融合餐厅(太仓万达广场店)"
+    },
+    {
+      "floor": 3,
+      "regionId": "F3-P103",
+      "name": "Mr.Pizza",
+      "point": [
+        1934,
+        1008
+      ],
+      "poiId": null,
+      "csvName": null
+    },
+    {
+      "floor": 3,
+      "regionId": "F3-P104",
+      "name": "海底捞",
+      "point": [
+        1821,
+        1092
+      ],
+      "poiId": "B0GK6LTEJ3",
+      "csvName": "海底捞火锅(太仓万达广场店)"
+    },
+    {
+      "floor": 3,
+      "regionId": "F3-P065",
+      "name": "都唛KTV",
+      "point": [
+        1479,
+        905
+      ],
+      "poiId": "B0FFGIHFJI",
+      "csvName": "都唛KTV(太仓万达广场店)"
+    },
+    {
+      "floor": 3,
+      "regionId": "F3-P049",
+      "name": "沙胆彪炭炉牛杂煲",
+      "point": [
+        1437,
+        475
+      ],
+      "poiId": null,
+      "csvName": null
+    },
+    {
+      "floor": 3,
+      "regionId": "F3-P052",
+      "name": "厚二和牛烧肉料理",
+      "point": [
+        1931,
+        479
+      ],
+      "poiId": "B0IRGH8U89",
+      "csvName": "厚二和牛烧肉料理(万达广场店)"
+    }
+  ]
+}

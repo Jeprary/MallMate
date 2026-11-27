@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "mallId": "B02001H9JR",
+  "records": [
+    {
+      "storeId": "amap-B0G2HPPC31",
+      "amapPoiId": "B0G2HPPC31",
+      "mallPoiId": "B02001H9JR",
+      "content": {
+        "text": "鲜牛肉火锅；资料列有手工牛肉丸、吊龙。",
+        "status": "published",
+        "basis": "listed_type_and_tags",
+        "origin": "local_curated",
+        "updatedAt": "2026-11-17T10:53:15.558634Z",
+        "source": {
+          "label": "高德 POI business.tag",
+          "url": "https://www.amap.com/place/B0G2HPPC31",
+          "observedAt": "2026-11-06T04:38:18.130Z"
+        }
+      },
+      "provenance": {
+        "sourceFile": "assets/store-photos.json",
+        "sourceSha256": "443eb3349c4ba1fe35f17d84fb53e5e6931eaf2bb773c33b9dc208e1af9a85dd",
+        "jsonPointer": "/B0G2HPPC31/businessTags",
+        "facts": [
+          "手工牛肉丸",
+          "鲜牛肉",
+          "匙柄",
+          "胸口捞",
+          "吊龙",
+          "雪花牛小排",
+          "肥拼",
+          "匙皮肉",
+          "腱子肉",
+          "牛舌",
+          "双人餐",
+          "牛肉",
+          "香炸小酥肉"
+        ],
+        "currentMenuVerified": false
+      }
+    },
+    {
+      "storeId": "amap-B0I6A7491O",
+      "amapPoiId": "B0I6A7491O",
+      "mallPoiId": "B02001H9JR",
+      "content": {
+        "text": "拌饭；资料列有煎蛋、鸡柳和鸡肉。",
+        "status": "published",
+        "basis": "listed_type_and_tags",
+        "origin": "local_curated",
+        "updatedAt": "2026-11-17T10:53:15.558634Z",
+        "source": {
+          "label": "高德 POI business.tag",
+          "url": "https://www.amap.com/place/B0I6A7491O",
+          "observedAt": "2026-11-06T04:38:18.130Z"
+        }
+      },
+      "provenance": {
+        "sourceFile": "assets/store-photos.json",
+        "sourceSha256": "443eb3349c4ba1fe35f17d84fb53e5e6931eaf2bb773c33b9dc208e1af9a85dd",
+        "jsonPointer": "/B0I6A7491O/businessTags",
+        "facts": [
+          "拌饭",
+          "煎蛋",
+          "鸡柳",
+          "鸡肉"
+        ],
+        "currentMenuVerified": false
+      }
+    },
+    {
+      "storeId": "amap-B0L67RMR0S",
+      "amapPoiId": "B0L67RMR0S",
+      "mallPoiId": "B02001H9JR",
+      "content": {
+        "text": "生炸鸡架；资料列有招牌生炸鸡架、究极鸡腿肉和超级鸡叉骨。",
+        "status": "published",
+        "basis": "listed_type_and_tags",
+        "origin": "local_curated",
+        "updatedAt": "2026-11-17T10:53:15.558634Z",
+        "source": {
+          "label": "高德 POI business.tag",
+          "url": "https://www.amap.com/place/B0L67RMR0S",
+          "observedAt": "2026-11-06T04:38:18.130Z"
+        }
+      },
+      "provenance": {
+        "sourceFile": "assets/store-photos.json",
+        "sourceSha256": "443eb3349c4ba1fe35f17d84fb53e5e6931eaf2bb773c33b9dc208e1af9a85dd",
+        "jsonPointer": "/B0L67RMR0S/businessTags",
+        "facts": [
+          "究极鸡腿肉",
+          "招牌生炸鸡架",
+          "超级鸡叉骨",
+          "单人餐"
+        ],
+        "currentMenuVerified": false
+      }
+    }
+  ]
+}

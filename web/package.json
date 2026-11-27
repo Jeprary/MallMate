@@ -1,0 +1,7 @@
+{
+  "name": "mallmate-customer-preview",
+  "private": true,
+  "dependencies": {
+    "ws": "8.23.0"
+  }
+}

@@ -1,0 +1,14 @@
+.env
+.env.*
+!.env.example
+credentials/
+.review-data/
+node_modules/
+DerivedData/
+xcuserdata/
+.DS_Store
+*.mobileprovision
+*.p12
+*.ipa
+*.routewalk
+*.worldmap

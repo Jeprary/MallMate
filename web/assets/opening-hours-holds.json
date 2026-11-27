@@ -1,0 +1,117 @@
+{
+  "holds": [
+    {
+      "mallPoiId": "B02001H9JR",
+      "amapPoiId": "B0IAJ4PZLC",
+      "reason": "conflicting_sources",
+      "observations": [
+        {
+          "source": "AMap Web Service POI detail",
+          "observedAt": "2026-11-18T00:56:22.335Z",
+          "listedHours": "周一至周日 04:00-20:00"
+        },
+        {
+          "source": "Ctrip",
+          "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/255/7565318.html",
+          "checkedOn": "2026-11-18",
+          "listedHours": "10:00-20:00"
+        }
+      ]
+    },
+    {
+      "mallPoiId": "B02001H9JR",
+      "amapPoiId": "B0LG6SHL6J",
+      "reason": "conflicting_sources",
+      "observations": [
+        {
+          "source": "AMap Web Service POI detail",
+          "sourceSnapshot": "outputs/bare-model-comparison-20261118/catalogue.json",
+          "listedHours": "周一至周日 10:00-21:00"
+        },
+        {
+          "source": "Trip.com",
+          "url": "https://us.trip.com/restaurant/china/taicang/detail/restaurant-135274052/",
+          "checkedOn": "2026-11-11",
+          "listedHours": "10:00-22:00"
+        }
+      ]
+    },
+    {
+      "mallPoiId": "B02001H9JR",
+      "amapPoiId": "B0FFIA71E1",
+      "reason": "conflicting_sources",
+      "observations": [
+        {
+          "source": "AMap Web Service POI detail",
+          "sourceSnapshot": "outputs/bare-model-comparison-20261118/catalogue.json",
+          "listedHours": "周一至周日 10:00-21:00"
+        },
+        {
+          "source": "Trip.com",
+          "url": "https://hk.trip.com/restaurant/china/taicang/detail/restaurant-119379799/",
+          "checkedOn": "2026-11-11",
+          "listedHours": "10:30-21:00"
+        }
+      ]
+    },
+    {
+      "mallPoiId": "B02001H9JR",
+      "amapPoiId": "B0IRGH8U89",
+      "reason": "conflicting_sources",
+      "observations": [
+        {
+          "source": "AMap Web Service POI detail",
+          "sourceSnapshot": "outputs/bare-model-comparison-20261118/catalogue.json",
+          "listedHours": "周一至周四 16:30-21:00；周五至周日 16:00-21:00"
+        },
+        {
+          "source": "Trip.com",
+          "url": "https://hk.trip.com/restaurant/china/taicang/detail/restaurant-136201139/",
+          "checkedOn": "2026-11-11",
+          "listedHours": "10:00-22:00"
+        }
+      ]
+    },
+    {
+      "mallPoiId": "B02001H9JR",
+      "amapPoiId": "B0FFLP31QX",
+      "reason": "conflicting_sources",
+      "observations": [
+        {
+          "source": "AMap Web Service POI detail",
+          "sourceSnapshot": "outputs/bare-model-comparison-20261118/catalogue.json",
+          "listedHours": "周一至周日 09:30-24:00"
+        },
+        {
+          "source": "Trip.com",
+          "url": "https://www.trip.com/restaurant/china/taicang/detail/restaurant-131086867/",
+          "checkedOn": "2026-11-11",
+          "listedHours": "09:00-23:30"
+        }
+      ]
+    },
+    {
+      "mallPoiId": "B02001H9JR",
+      "amapPoiId": "B0FFK6E3LT",
+      "reason": "conflicting_sources",
+      "notes": "采用 Trip.com 普通周时段；特殊日期安排未单独确认。",
+      "observations": [
+        {
+          "source": "AMap Web Service POI detail",
+          "sourceSnapshot": "outputs/bare-model-comparison-20261118/catalogue.json",
+          "listedHours": "周一至周五 10:30-14:30,16:30-21:00；周六至周日 10:30-15:00,16:30-21:00 10-01至10-07 周一至周日 10:00-21:00"
+        },
+        {
+          "source": "Trip.com",
+          "url": "https://hk.trip.com/restaurant/china/taicang/detail/restaurant-136196001/",
+          "checkedOn": "2026-11-11",
+          "listedHours": "周一至周日 10:30-14:30,16:30-21:00"
+        }
+      ]
+    }
+  ],
+  "preferredSources": [
+    "Ctrip",
+    "Trip.com"
+  ]
+}

@@ -1,0 +1,748 @@
+{
+  "B02001H9JR": {
+    "B0JUTUDJY2": {
+      "origin": "operator_curated",
+      "source": "https://www.dianping.com/shop/H8BODSaHKKvDHMty",
+      "observedOn": "2026-11-19",
+      "items": [
+        {
+          "id": "amap-B0JUTUDJY2-001",
+          "zh": "招牌菠萝包",
+          "en": "Signature pineapple bun",
+          "imageUrl": "/assets/featured-dishes/amap-B0JUTUDJY2-001.webp",
+          "imageSource": "https://m.dianping.com/shop/H8BODSaHKKvDHMty/dish888162974",
+          "image": "/assets/featured-dishes/amap-B0JUTUDJY2-001.webp"
+        },
+        {
+          "id": "amap-B0JUTUDJY2-003",
+          "zh": "港式干炒牛河",
+          "en": "Hong Kong-style beef chow fun",
+          "imageUrl": "/assets/featured-dishes/amap-B0JUTUDJY2-003.webp",
+          "imageSource": "https://m.dianping.com/shop/H8BODSaHKKvDHMty/dish888657493",
+          "image": "/assets/featured-dishes/amap-B0JUTUDJY2-003.webp"
+        }
+      ]
+    },
+    "B0MRXZK3TM": {
+      "origin": "operator_curated",
+      "source": "https://www.dianping.com/shop/l71ZIdBcYCZh8mIu",
+      "observedOn": "2026-11-19",
+      "items": [
+        {
+          "id": "amap-B0MRXZK3TM-001",
+          "zh": "经典毛肚",
+          "en": "Classic beef tripe",
+          "imageUrl": "/assets/featured-dishes/amap-B0MRXZK3TM-001.webp",
+          "imageSource": "https://m.dianping.com/shop/l71ZIdBcYCZh8mIu/dish1171866216",
+          "image": "/assets/featured-dishes/amap-B0MRXZK3TM-001.webp"
+        },
+        {
+          "id": "amap-B0MRXZK3TM-002",
+          "zh": "野山菌汤",
+          "en": "Wild mushroom broth",
+          "imageUrl": "/assets/featured-dishes/amap-B0MRXZK3TM-002.webp",
+          "imageSource": "https://m.dianping.com/shop/l71ZIdBcYCZh8mIu/dish1171803065",
+          "image": "/assets/featured-dishes/amap-B0MRXZK3TM-002.webp"
+        }
+      ]
+    },
+    "B0G2HPPC31": {
+      "origin": "operator_curated",
+      "source": "https://www.dianping.com/shop/k1GXH0YjXnS0DqTp",
+      "observedOn": "2026-11-19",
+      "items": [
+        {
+          "id": "amap-B0G2HPPC31-002",
+          "zh": "吊龙",
+          "en": "Sliced beef loin",
+          "imageUrl": "/assets/featured-dishes/amap-B0G2HPPC31-002.webp",
+          "imageSource": "https://m.dianping.com/shop/k1GXH0YjXnS0DqTp/dish387971418",
+          "image": "/assets/featured-dishes/amap-B0G2HPPC31-002.webp"
+        },
+        {
+          "id": "amap-B0G2HPPC31-005",
+          "zh": "手工牛肉丸",
+          "en": "Handmade beef balls",
+          "imageUrl": "/assets/featured-dishes/amap-B0G2HPPC31-005.webp",
+          "imageSource": "https://m.dianping.com/shop/k1GXH0YjXnS0DqTp/dish829644438",
+          "image": "/assets/featured-dishes/amap-B0G2HPPC31-005.webp"
+        }
+      ]
+    },
+    "B0MRNZ6ZCO": {
+      "origin": "operator_curated",
+      "source": "https://www.dianping.com/shop/H2AXDQiq22XfKNtr",
+      "observedOn": "2026-11-19",
+      "items": [
+        {
+          "id": "amap-B0MRNZ6ZCO-001",
+          "zh": "原味章鱼烧",
+          "en": "Classic takoyaki",
+          "imageUrl": "/assets/featured-dishes/amap-B0MRNZ6ZCO-001.webp",
+          "imageSource": "https://m.dianping.com/shop/H2AXDQiq22XfKNtr/dish1170382546",
+          "image": "/assets/featured-dishes/amap-B0MRNZ6ZCO-001.webp"
+        },
+        {
+          "id": "amap-B0MRNZ6ZCO-003",
+          "zh": "芒果多多奶油华夫饼",
+          "en": "Mango and cream waffle",
+          "imageUrl": "/assets/featured-dishes/amap-B0MRNZ6ZCO-003.webp",
+          "imageSource": "https://m.dianping.com/shop/H2AXDQiq22XfKNtr/dish1171735922",
+          "image": "/assets/featured-dishes/amap-B0MRNZ6ZCO-003.webp"
+        }
+      ]
+    },
+    "B0LG6SHL6J": {
+      "origin": "operator_curated",
+      "source": "https://www.dianping.com/shop/i2w9Cza8VFTFpTWB",
+      "observedOn": "2026-11-19",
+      "items": [
+        {
+          "id": "amap-B0LG6SHL6J-001",
+          "zh": "招牌菌汤锅",
+          "en": "Signature mushroom broth",
+          "imageUrl": "/assets/featured-dishes/amap-B0LG6SHL6J-001.webp",
+          "imageSource": "https://m.dianping.com/shop/i2w9Cza8VFTFpTWB/dish804681208",
+          "image": "/assets/featured-dishes/amap-B0LG6SHL6J-001.webp"
+        },
+        {
+          "id": "amap-B0LG6SHL6J-002",
+          "zh": "菌菇拼盘",
+          "en": "Mixed mushrooms",
+          "imageUrl": "/assets/featured-dishes/amap-B0LG6SHL6J-002.webp",
+          "imageSource": "https://m.dianping.com/shop/i2w9Cza8VFTFpTWB/dish880366127",
+          "image": "/assets/featured-dishes/amap-B0LG6SHL6J-002.webp"
+        }
+      ]
+    },
+    "B0KK0K9NZL": {
+      "origin": "operator_curated",
+      "source": "https://www.dianping.com/shop/H2bqmZ6zDLFbwhZ6",
+      "observedOn": "2026-11-19",
+      "items": [
+        {
+          "id": "amap-B0KK0K9NZL-004",
+          "zh": "黑椒梅肉粒",
+          "en": "Black pepper pork shoulder bites",
+          "imageUrl": "/assets/featured-dishes/amap-B0KK0K9NZL-004.webp",
+          "imageSource": "https://m.dianping.com/shop/H2bqmZ6zDLFbwhZ6/dish1084548500",
+          "image": "/assets/featured-dishes/amap-B0KK0K9NZL-004.webp"
+        },
+        {
+          "id": "amap-B0KK0K9NZL-008",
+          "zh": "生乳烤多士",
+          "en": "Milk toast",
+          "imageUrl": "/assets/featured-dishes/amap-B0KK0K9NZL-008.webp",
+          "imageSource": "https://m.dianping.com/shop/H2bqmZ6zDLFbwhZ6/dish1020197721",
+          "image": "/assets/featured-dishes/amap-B0KK0K9NZL-008.webp"
+        }
+      ]
+    },
+    "B0GK6LTEJ3": {
+      "origin": "operator_curated",
+      "source": "https://www.dianping.com/shop/Haaj181fZSMOw2Hk",
+      "observedOn": "2026-11-19",
+      "items": [
+        {
+          "id": "amap-B0GK6LTEJ3-001",
+          "zh": "番茄锅底",
+          "en": "Tomato broth",
+          "imageUrl": "/assets/featured-dishes/amap-B0GK6LTEJ3-001.webp",
+          "imageSource": "https://m.dianping.com/shop/Haaj181fZSMOw2Hk/dish469904045",
+          "image": "/assets/featured-dishes/amap-B0GK6LTEJ3-001.webp"
+        },
+        {
+          "id": "amap-B0GK6LTEJ3-002",
+          "zh": "招牌虾滑",
+          "en": "Signature shrimp paste",
+          "imageUrl": "/assets/featured-dishes/amap-B0GK6LTEJ3-002.webp",
+          "imageSource": "https://m.dianping.com/shop/Haaj181fZSMOw2Hk/dish469887035",
+          "image": "/assets/featured-dishes/amap-B0GK6LTEJ3-002.webp"
+        }
+      ]
+    },
+    "B0FFK64F6J": {
+      "origin": "operator_curated",
+      "source": "https://www.dianping.com/shop/k5O7owgwEzFioPtg",
+      "observedOn": "2026-11-19",
+      "items": [
+        {
+          "id": "amap-B0FFK64F6J-001",
+          "zh": "果香牛肋排",
+          "en": "Fruit-marinated beef ribs",
+          "imageUrl": "/assets/featured-dishes/amap-B0FFK64F6J-001.webp",
+          "imageSource": "https://m.dianping.com/shop/k5O7owgwEzFioPtg/dish920613061",
+          "image": "/assets/featured-dishes/amap-B0FFK64F6J-001.webp"
+        },
+        {
+          "id": "amap-B0FFK64F6J-003",
+          "zh": "和牛雪花肉",
+          "en": "Marbled wagyu",
+          "imageUrl": "/assets/featured-dishes/amap-B0FFK64F6J-003.webp",
+          "imageSource": "https://m.dianping.com/shop/k5O7owgwEzFioPtg/dish1073310491",
+          "image": "/assets/featured-dishes/amap-B0FFK64F6J-003.webp"
+        }
+      ]
+    },
+    "B0IRGH8U89": {
+      "origin": "operator_curated",
+      "source": "https://www.dianping.com/shop/Ga1aEeYr1SK0ew7I",
+      "observedOn": "2026-11-19",
+      "items": [
+        {
+          "id": "amap-B0IRGH8U89-002",
+          "zh": "黑牛五品盛",
+          "en": "Five-cut black cattle platter",
+          "imageUrl": "/assets/featured-dishes/amap-B0IRGH8U89-002.webp",
+          "imageSource": "https://m.dianping.com/shop/Ga1aEeYr1SK0ew7I/dish806657471",
+          "image": "/assets/featured-dishes/amap-B0IRGH8U89-002.webp"
+        },
+        {
+          "id": "amap-B0IRGH8U89-005",
+          "zh": "雪花特上眼肉",
+          "en": "Premium marbled ribeye",
+          "imageUrl": "/assets/featured-dishes/amap-B0IRGH8U89-005.webp",
+          "imageSource": "https://m.dianping.com/shop/Ga1aEeYr1SK0ew7I/dish800124505",
+          "image": "/assets/featured-dishes/amap-B0IRGH8U89-005.webp"
+        }
+      ]
+    },
+    "B0MDTCCI7S": {
+      "origin": "operator_curated",
+      "source": "https://www.dianping.com/shop/l7rqJYfKvTZ82Aws",
+      "observedOn": "2026-11-19",
+      "items": [
+        {
+          "id": "amap-B0MDTCCI7S-001",
+          "zh": "江边怪味烤鱼",
+          "en": "House-spiced grilled fish",
+          "imageUrl": "/assets/featured-dishes/amap-B0MDTCCI7S-001.webp",
+          "imageSource": "https://m.dianping.com/shop/l7rqJYfKvTZ82Aws/dish1158033460",
+          "image": "/assets/featured-dishes/amap-B0MDTCCI7S-001.webp"
+        },
+        {
+          "id": "amap-B0MDTCCI7S-004",
+          "zh": "经典蒜香味烤鱼",
+          "en": "Classic garlic grilled fish",
+          "imageUrl": "/assets/featured-dishes/amap-B0MDTCCI7S-004.webp",
+          "imageSource": "https://m.dianping.com/shop/l7rqJYfKvTZ82Aws/dish1158072708",
+          "image": "/assets/featured-dishes/amap-B0MDTCCI7S-004.webp"
+        }
+      ]
+    },
+    "B0LKT9XI4E": {
+      "origin": "operator_curated",
+      "source": "https://www.dianping.com/shop/k4s3NxGhd8UfvsJX",
+      "observedOn": "2026-11-19",
+      "items": [
+        {
+          "id": "amap-B0LKT9XI4E-001",
+          "zh": "楼兰经典大盘鸡",
+          "en": "Loulan big-plate chicken",
+          "imageUrl": "/assets/featured-dishes/amap-B0LKT9XI4E-001.webp",
+          "imageSource": "https://m.dianping.com/shop/k4s3NxGhd8UfvsJX/dish1106408642",
+          "image": "/assets/featured-dishes/amap-B0LKT9XI4E-001.webp"
+        },
+        {
+          "id": "amap-B0LKT9XI4E-003",
+          "zh": "新疆羊肉串",
+          "en": "Xinjiang lamb skewers",
+          "imageUrl": "/assets/featured-dishes/amap-B0LKT9XI4E-003.webp",
+          "imageSource": "https://m.dianping.com/shop/k4s3NxGhd8UfvsJX/dish1106443906",
+          "image": "/assets/featured-dishes/amap-B0LKT9XI4E-003.webp"
+        }
+      ]
+    },
+    "B020018B66": {
+      "origin": "operator_curated",
+      "source": "https://www.dianping.com/shop/H2fmh894O97oaeMZ",
+      "observedOn": "2026-11-19",
+      "items": [
+        {
+          "id": "amap-B020018B66-006",
+          "zh": "麦乐鸡（5块）",
+          "en": "Chicken McNuggets (5 pieces)",
+          "imageUrl": "/assets/featured-dishes/amap-B020018B66-006.webp",
+          "imageSource": "https://m.dianping.com/shop/H2fmh894O97oaeMZ/dish883960137",
+          "image": "/assets/featured-dishes/amap-B020018B66-006.webp"
+        },
+        {
+          "id": "amap-B020018B66-008",
+          "zh": "香芋派",
+          "en": "Taro pie",
+          "imageUrl": "/assets/featured-dishes/amap-B020018B66-008.webp",
+          "imageSource": "https://m.dianping.com/shop/H2fmh894O97oaeMZ/dish224695465",
+          "image": "/assets/featured-dishes/amap-B020018B66-008.webp"
+        }
+      ]
+    },
+    "B0L67RMR0S": {
+      "origin": "operator_curated",
+      "source": "https://www.dianping.com/shop/l5XNRLRLebGFFPgf",
+      "observedOn": "2026-11-19",
+      "items": [
+        {
+          "id": "amap-B0L67RMR0S-001",
+          "zh": "生炸鸡架",
+          "en": "Fried chicken frame",
+          "imageUrl": "/assets/featured-dishes/amap-B0L67RMR0S-001.webp",
+          "imageSource": "https://m.dianping.com/shop/l5XNRLRLebGFFPgf/dish993675405",
+          "image": "/assets/featured-dishes/amap-B0L67RMR0S-001.webp"
+        },
+        {
+          "id": "amap-B0L67RMR0S-006",
+          "zh": "巨炸甘梅地瓜",
+          "en": "Fried sweet potato with plum seasoning",
+          "imageUrl": "/assets/featured-dishes/amap-B0L67RMR0S-006.webp",
+          "imageSource": "https://m.dianping.com/shop/l5XNRLRLebGFFPgf/dish995208177",
+          "image": "/assets/featured-dishes/amap-B0L67RMR0S-006.webp"
+        }
+      ]
+    },
+    "B0I6A7491O": {
+      "origin": "merchant",
+      "revision": 3,
+      "publishedAt": "2026-11-20T03:35:09.670Z",
+      "items": [
+        {
+          "id": "9siL5u5NsWeh85",
+          "zh": "Rice",
+          "en": "Rice",
+          "imageUrl": "https://mallmate.pages.dev/assets/uploads/featured-dish-1795101375986-07177be63ecb-1795142515092-a09b2402ee44.webp",
+          "sortOrder": 0,
+          "updatedAt": "2026-11-20T02:42:30.718Z"
+        },
+        {
+          "id": "pzGiQV6uUzpG4z",
+          "zh": "Rice",
+          "en": "Rice",
+          "imageUrl": "https://mallmate.pages.dev/assets/uploads/featured-dish-1795101375986-07177be63ecb-1795143650043-e5375ec554c5.webp",
+          "sortOrder": 0,
+          "updatedAt": "2026-11-20T03:00:54.136Z"
+        },
+        {
+          "id": "zBcc9WfxmTCFxf",
+          "zh": "Best Rice",
+          "en": "Best Rice",
+          "imageUrl": "https://mallmate.pages.dev/assets/uploads/featured-dish-1795101375986-07177be63ecb-1795145699843-0726b2570cda.webp",
+          "sortOrder": 0,
+          "updatedAt": "2026-11-20T03:35:07.155Z"
+        }
+      ]
+    },
+    "B0HRZXPY27": {
+      "origin": "operator_curated",
+      "source": "https://www.dianping.com/shop/l9iO2MQc78XDqGlG",
+      "observedOn": "2026-11-19",
+      "items": [
+        {
+          "id": "amap-B0HRZXPY27-001",
+          "zh": "招牌肉蟹煲",
+          "en": "Signature crab pot",
+          "imageUrl": "/assets/featured-dishes/amap-B0HRZXPY27-001.webp",
+          "imageSource": "https://m.dianping.com/shop/l9iO2MQc78XDqGlG/dish471704093",
+          "image": "/assets/featured-dishes/amap-B0HRZXPY27-001.webp"
+        },
+        {
+          "id": "amap-B0HRZXPY27-002",
+          "zh": "鸡爪煲",
+          "en": "Chicken feet pot",
+          "imageUrl": "/assets/featured-dishes/amap-B0HRZXPY27-002.webp",
+          "imageSource": "https://m.dianping.com/shop/l9iO2MQc78XDqGlG/dish472628426",
+          "image": "/assets/featured-dishes/amap-B0HRZXPY27-002.webp"
+        }
+      ]
+    },
+    "B0MUZS6JBV": {
+      "origin": "operator_curated",
+      "source": "https://www.dianping.com/shop/E4OlawvzUKEzrx95",
+      "observedOn": "2026-11-19",
+      "items": [
+        {
+          "id": "amap-B0MUZS6JBV-001",
+          "zh": "制霸厚蛋鳗鱼饭",
+          "en": "Eel and thick omelet rice",
+          "imageUrl": "/assets/featured-dishes/amap-B0MUZS6JBV-001.webp",
+          "imageSource": "https://m.dianping.com/shop/E4OlawvzUKEzrx95/dish1161010026",
+          "image": "/assets/featured-dishes/amap-B0MUZS6JBV-001.webp"
+        },
+        {
+          "id": "amap-B0MUZS6JBV-005",
+          "zh": "牛舌温泉蛋拌饭",
+          "en": "Beef tongue rice with soft-cooked egg",
+          "imageUrl": "/assets/featured-dishes/amap-B0MUZS6JBV-005.webp",
+          "imageSource": "https://m.dianping.com/shop/E4OlawvzUKEzrx95/dish1163619978",
+          "image": "/assets/featured-dishes/amap-B0MUZS6JBV-005.webp"
+        }
+      ]
+    },
+    "B0FFIA71E1": {
+      "origin": "operator_curated",
+      "source": "https://www.dianping.com/shop/G7bYOVTQtmRaHNE9",
+      "observedOn": "2026-11-19",
+      "items": [
+        {
+          "id": "amap-B0FFIA71E1-001",
+          "zh": "苏式脆皮鸡",
+          "en": "Suzhou-style crispy chicken",
+          "imageUrl": "/assets/featured-dishes/amap-B0FFIA71E1-001.webp",
+          "imageSource": "https://m.dianping.com/shop/G7bYOVTQtmRaHNE9/dish906333655",
+          "image": "/assets/featured-dishes/amap-B0FFIA71E1-001.webp"
+        },
+        {
+          "id": "amap-B0FFIA71E1-003",
+          "zh": "葱香油爆虾",
+          "en": "Wok-fried shrimp with scallions",
+          "imageUrl": "/assets/featured-dishes/amap-B0FFIA71E1-003.webp",
+          "imageSource": "https://m.dianping.com/shop/G7bYOVTQtmRaHNE9/dish784598555",
+          "image": "/assets/featured-dishes/amap-B0FFIA71E1-003.webp"
+        }
+      ]
+    },
+    "B0LDY90KNW": {
+      "origin": "operator_curated",
+      "source": "https://www.dianping.com/shop/l5BmCCUMR8IZkG1c",
+      "observedOn": "2026-11-19",
+      "items": [
+        {
+          "id": "amap-B0LDY90KNW-003",
+          "zh": "宁都三杯鸡",
+          "en": "Ningdu three-cup chicken",
+          "imageUrl": "/assets/featured-dishes/amap-B0LDY90KNW-003.webp",
+          "imageSource": "https://m.dianping.com/shop/l5BmCCUMR8IZkG1c/dish1020681315",
+          "image": "/assets/featured-dishes/amap-B0LDY90KNW-003.webp"
+        },
+        {
+          "id": "amap-B0LDY90KNW-002",
+          "zh": "江西炒米粉",
+          "en": "Jiangxi stir-fried rice noodles",
+          "imageUrl": "/assets/featured-dishes/amap-B0LDY90KNW-002.webp",
+          "imageSource": "https://m.dianping.com/shop/l5BmCCUMR8IZkG1c/dish1020644665",
+          "image": "/assets/featured-dishes/amap-B0LDY90KNW-002.webp"
+        }
+      ]
+    },
+    "B0L2UAEEQG": {
+      "origin": "operator_curated",
+      "source": "https://www.dianping.com/shop/G6Hippt2BSRMREMO",
+      "observedOn": "2026-11-19",
+      "items": [
+        {
+          "id": "amap-B0L2UAEEQG-001",
+          "zh": "九秒牛肉",
+          "en": "Nine-second beef",
+          "imageUrl": "/assets/featured-dishes/amap-B0L2UAEEQG-001.webp",
+          "imageSource": "https://m.dianping.com/shop/G6Hippt2BSRMREMO/dish1069366492",
+          "image": "/assets/featured-dishes/amap-B0L2UAEEQG-001.webp"
+        },
+        {
+          "id": "amap-B0L2UAEEQG-003",
+          "zh": "罗勒牛肉",
+          "en": "Basil beef",
+          "imageUrl": "/assets/featured-dishes/amap-B0L2UAEEQG-003.webp",
+          "imageSource": "https://m.dianping.com/shop/G6Hippt2BSRMREMO/dish1069372864",
+          "image": "/assets/featured-dishes/amap-B0L2UAEEQG-003.webp"
+        }
+      ]
+    },
+    "B0FFKV946S": {
+      "origin": "operator_curated",
+      "source": "https://www.dianping.com/shop/l7Wx775X2NXTh6G3",
+      "observedOn": "2026-11-19",
+      "items": [
+        {
+          "id": "amap-B0FFKV946S-001",
+          "zh": "代表西安油泼面",
+          "en": "Xi’an hot oil noodles",
+          "imageUrl": "/assets/featured-dishes/amap-B0FFKV946S-001.webp",
+          "imageSource": "https://m.dianping.com/shop/l7Wx775X2NXTh6G3/dish1205456035",
+          "image": "/assets/featured-dishes/amap-B0FFKV946S-001.webp"
+        },
+        {
+          "id": "amap-B0FFKV946S-005",
+          "zh": "现烤红柳羊肉串",
+          "en": "Grilled lamb skewers on tamarisk",
+          "imageUrl": "/assets/featured-dishes/amap-B0FFKV946S-005.webp",
+          "imageSource": "https://m.dianping.com/shop/l7Wx775X2NXTh6G3/dish1206305608",
+          "image": "/assets/featured-dishes/amap-B0FFKV946S-005.webp"
+        }
+      ]
+    },
+    "B0FFLGVJXJ": {
+      "origin": "operator_curated",
+      "source": "https://www.dianping.com/shop/H35NTO5zMHrHWWOx",
+      "observedOn": "2026-11-19",
+      "items": [
+        {
+          "id": "amap-B0FFLGVJXJ-001",
+          "zh": "蒜香美蛙",
+          "en": "Garlic bullfrog",
+          "imageUrl": "/assets/featured-dishes/amap-B0FFLGVJXJ-001.webp",
+          "imageSource": "https://m.dianping.com/shop/H35NTO5zMHrHWWOx/dish301187934",
+          "image": "/assets/featured-dishes/amap-B0FFLGVJXJ-001.webp"
+        },
+        {
+          "id": "amap-B0FFLGVJXJ-003",
+          "zh": "美味紫苏蛙",
+          "en": "Bullfrog with perilla",
+          "imageUrl": "/assets/featured-dishes/amap-B0FFLGVJXJ-003.webp",
+          "imageSource": "https://m.dianping.com/shop/H35NTO5zMHrHWWOx/dish386568399",
+          "image": "/assets/featured-dishes/amap-B0FFLGVJXJ-003.webp"
+        }
+      ]
+    },
+    "B0IAJ4PZLC": {
+      "origin": "operator_curated",
+      "source": "https://www.dianping.com/shop/l1dwOiqhTO5dPsZh",
+      "observedOn": "2026-11-19",
+      "items": [
+        {
+          "id": "amap-B0IAJ4PZLC-001",
+          "zh": "大骨浓汤猪软骨拉面",
+          "en": "Pork cartilage ramen in bone broth",
+          "imageUrl": "/assets/featured-dishes/amap-B0IAJ4PZLC-001.webp",
+          "imageSource": "https://m.dianping.com/shop/l1dwOiqhTO5dPsZh/dish224271687",
+          "image": "/assets/featured-dishes/amap-B0IAJ4PZLC-001.webp"
+        },
+        {
+          "id": "amap-B0IAJ4PZLC-003",
+          "zh": "熊本叉烧拉面",
+          "en": "Kumamoto chashu ramen",
+          "imageUrl": "/assets/featured-dishes/amap-B0IAJ4PZLC-003.webp",
+          "imageSource": "https://m.dianping.com/shop/l1dwOiqhTO5dPsZh/dish224272000",
+          "image": "/assets/featured-dishes/amap-B0IAJ4PZLC-003.webp"
+        }
+      ]
+    },
+    "B0IK7C77BN": {
+      "origin": "operator_curated",
+      "source": "https://www.dianping.com/shop/G4WMnsrcp78umqZG",
+      "observedOn": "2026-11-19",
+      "items": [
+        {
+          "id": "amap-B0IK7C77BN-001",
+          "zh": "蒜香烤鱼",
+          "en": "Garlic grilled fish",
+          "imageUrl": "/assets/featured-dishes/amap-B0IK7C77BN-001.webp",
+          "imageSource": "https://m.dianping.com/shop/G4WMnsrcp78umqZG/dish198419019",
+          "image": "/assets/featured-dishes/amap-B0IK7C77BN-001.webp"
+        },
+        {
+          "id": "amap-B0IK7C77BN-002",
+          "zh": "香辣烤鱼",
+          "en": "Spicy grilled fish",
+          "imageUrl": "/assets/featured-dishes/amap-B0IK7C77BN-002.webp",
+          "imageSource": "https://m.dianping.com/shop/G4WMnsrcp78umqZG/dish169888709",
+          "image": "/assets/featured-dishes/amap-B0IK7C77BN-002.webp"
+        }
+      ]
+    },
+    "B0I2LSYFWE": {
+      "origin": "operator_curated",
+      "source": "https://www.dianping.com/shop/k5fBP4EV1jXZkVs1",
+      "observedOn": "2026-11-19",
+      "items": [
+        {
+          "id": "amap-B0I2LSYFWE-001",
+          "zh": "老太太特色肥牛",
+          "en": "House marbled beef",
+          "imageUrl": "/assets/featured-dishes/amap-B0I2LSYFWE-001.webp",
+          "imageSource": "https://m.dianping.com/shop/k5fBP4EV1jXZkVs1/dish832571386",
+          "image": "/assets/featured-dishes/amap-B0I2LSYFWE-001.webp"
+        },
+        {
+          "id": "amap-B0I2LSYFWE-004",
+          "zh": "秘制卷牛肋排",
+          "en": "House-seasoned rolled beef ribs",
+          "imageUrl": "/assets/featured-dishes/amap-B0I2LSYFWE-004.webp",
+          "imageSource": "https://m.dianping.com/shop/k5fBP4EV1jXZkVs1/dish829074241",
+          "image": "/assets/featured-dishes/amap-B0I2LSYFWE-004.webp"
+        }
+      ]
+    },
+    "B0JRGAWBJA": {
+      "origin": "operator_curated",
+      "source": "https://www.dianping.com/shop/H95ydShjXPIKxQHO",
+      "observedOn": "2026-11-19",
+      "items": [
+        {
+          "id": "amap-B0JRGAWBJA-002",
+          "zh": "小炒黄牛肉",
+          "en": "Stir-fried yellow cattle beef",
+          "imageUrl": "/assets/featured-dishes/amap-B0JRGAWBJA-002.webp",
+          "imageSource": "https://m.dianping.com/shop/H95ydShjXPIKxQHO/dish882121802",
+          "image": "/assets/featured-dishes/amap-B0JRGAWBJA-002.webp"
+        },
+        {
+          "id": "amap-B0JRGAWBJA-004",
+          "zh": "老长沙臭豆腐",
+          "en": "Changsha stinky tofu",
+          "imageUrl": "/assets/featured-dishes/amap-B0JRGAWBJA-004.webp",
+          "imageSource": "https://m.dianping.com/shop/H95ydShjXPIKxQHO/dish882567551",
+          "image": "/assets/featured-dishes/amap-B0JRGAWBJA-004.webp"
+        }
+      ]
+    },
+    "B0FFIKF3SU": {
+      "origin": "operator_curated",
+      "source": "https://www.dianping.com/shop/la6n1EE8BG00ctOH",
+      "observedOn": "2026-11-19",
+      "items": [
+        {
+          "id": "amap-B0FFIKF3SU-001",
+          "zh": "农家红烧肉",
+          "en": "Country-style braised pork belly",
+          "imageUrl": "/assets/featured-dishes/amap-B0FFIKF3SU-001.webp",
+          "imageSource": "https://m.dianping.com/shop/la6n1EE8BG00ctOH/dish385519802",
+          "image": "/assets/featured-dishes/amap-B0FFIKF3SU-001.webp"
+        },
+        {
+          "id": "amap-B0FFIKF3SU-006",
+          "zh": "徽州臭鳜鱼",
+          "en": "Huizhou fermented mandarin fish",
+          "imageUrl": "/assets/featured-dishes/amap-B0FFIKF3SU-006.webp",
+          "imageSource": "https://m.dianping.com/shop/la6n1EE8BG00ctOH/dish141644104",
+          "image": "/assets/featured-dishes/amap-B0FFIKF3SU-006.webp"
+        }
+      ]
+    },
+    "B0FFK6E3LT": {
+      "origin": "operator_curated",
+      "source": "https://www.dianping.com/shop/H1cOkFR9M970AggV",
+      "observedOn": "2026-11-19",
+      "items": [
+        {
+          "id": "amap-B0FFK6E3LT-006",
+          "zh": "泰式冬阴功汤",
+          "en": "Thai tom yum soup",
+          "imageUrl": "/assets/featured-dishes/amap-B0FFK6E3LT-006.webp",
+          "imageSource": "https://m.dianping.com/shop/H1cOkFR9M970AggV/dish202169003",
+          "image": "/assets/featured-dishes/amap-B0FFK6E3LT-006.webp"
+        },
+        {
+          "id": "amap-B0FFK6E3LT-009",
+          "zh": "泰式咖喱牛腩",
+          "en": "Thai beef brisket curry",
+          "imageUrl": "/assets/featured-dishes/amap-B0FFK6E3LT-009.webp",
+          "imageSource": "https://m.dianping.com/shop/H1cOkFR9M970AggV/dish202168976",
+          "image": "/assets/featured-dishes/amap-B0FFK6E3LT-009.webp"
+        }
+      ]
+    },
+    "B0FFH1JCHC": {
+      "origin": "operator_curated",
+      "source": "https://www.dianping.com/shop/Hat6HB0n5XATQzoD",
+      "observedOn": "2026-11-19",
+      "items": [
+        {
+          "id": "amap-B0FFH1JCHC-003",
+          "zh": "地锅鸡",
+          "en": "Clay pot chicken",
+          "imageUrl": "/assets/featured-dishes/amap-B0FFH1JCHC-003.webp",
+          "imageSource": "https://m.dianping.com/shop/Hat6HB0n5XATQzoD/dish392785496",
+          "image": "/assets/featured-dishes/amap-B0FFH1JCHC-003.webp"
+        },
+        {
+          "id": "amap-B0FFH1JCHC-008",
+          "zh": "地锅排骨鸡",
+          "en": "Clay pot chicken and ribs",
+          "imageUrl": "/assets/featured-dishes/amap-B0FFH1JCHC-008.webp",
+          "imageSource": "https://m.dianping.com/shop/Hat6HB0n5XATQzoD/dish809751302",
+          "image": "/assets/featured-dishes/amap-B0FFH1JCHC-008.webp"
+        }
+      ]
+    },
+    "B0KAKZSJH0": {
+      "origin": "operator_curated",
+      "source": "https://www.dianping.com/shop/G8wGHqMuXcsnL1Vj",
+      "observedOn": "2026-11-19",
+      "items": [
+        {
+          "id": "amap-B0KAKZSJH0-001",
+          "zh": "火焰黑椒眼肉牛排",
+          "en": "Flamed black pepper ribeye",
+          "imageUrl": "/assets/featured-dishes/amap-B0KAKZSJH0-001.webp",
+          "imageSource": "https://m.dianping.com/shop/G8wGHqMuXcsnL1Vj/dish944154087",
+          "image": "/assets/featured-dishes/amap-B0KAKZSJH0-001.webp"
+        },
+        {
+          "id": "amap-B0KAKZSJH0-003",
+          "zh": "铁板蒜蓉生蚝",
+          "en": "Teppanyaki oysters with garlic",
+          "imageUrl": "/assets/featured-dishes/amap-B0KAKZSJH0-003.webp",
+          "imageSource": "https://m.dianping.com/shop/G8wGHqMuXcsnL1Vj/dish1014152306",
+          "image": "/assets/featured-dishes/amap-B0KAKZSJH0-003.webp"
+        }
+      ]
+    },
+    "B0MUB77D87": {
+      "origin": "operator_curated",
+      "source": "https://www.dianping.com/shop/G6OceXhyH2ywRx1K",
+      "observedOn": "2026-11-19",
+      "items": [
+        {
+          "id": "amap-B0MUB77D87-003",
+          "zh": "牛肉双丸拼盘",
+          "en": "Two-style beef ball platter",
+          "imageUrl": "/assets/featured-dishes/amap-B0MUB77D87-003.webp",
+          "imageSource": "https://m.dianping.com/shop/G6OceXhyH2ywRx1K/dish1164891955",
+          "image": "/assets/featured-dishes/amap-B0MUB77D87-003.webp"
+        },
+        {
+          "id": "amap-B0MUB77D87-001",
+          "zh": "飞鱼籽大颗粒虾滑",
+          "en": "Chunky shrimp paste with flying fish roe",
+          "imageUrl": "/assets/featured-dishes/amap-B0MUB77D87-001.webp",
+          "imageSource": "https://m.dianping.com/shop/G6OceXhyH2ywRx1K/dish1164868165",
+          "image": "/assets/featured-dishes/amap-B0MUB77D87-001.webp"
+        }
+      ]
+    },
+    "B0LU77VS6B": {
+      "origin": "operator_curated",
+      "source": "https://www.dianping.com/shop/l3amDiwlb8wTKzwG",
+      "observedOn": "2026-11-19",
+      "items": [
+        {
+          "id": "amap-B0LU77VS6B-002",
+          "zh": "黑松露酱菌子焖饭",
+          "en": "Mushroom rice with black truffle sauce",
+          "imageUrl": "/assets/featured-dishes/amap-B0LU77VS6B-002.webp",
+          "imageSource": "https://m.dianping.com/shop/l3amDiwlb8wTKzwG/dish1112861377",
+          "image": "/assets/featured-dishes/amap-B0LU77VS6B-002.webp"
+        },
+        {
+          "id": "amap-B0LU77VS6B-003",
+          "zh": "铜锅油焖鸡",
+          "en": "Copper pot braised chicken",
+          "imageUrl": "/assets/featured-dishes/amap-B0LU77VS6B-003.webp",
+          "imageSource": "https://m.dianping.com/shop/l3amDiwlb8wTKzwG/dish1047421348",
+          "image": "/assets/featured-dishes/amap-B0LU77VS6B-003.webp"
+        }
+      ]
+    },
+    "B0I6FAIK3J": {
+      "origin": "operator_curated",
+      "source": "https://www.dianping.com/shop/G3jyC1ewYjgyTBgJ",
+      "observedOn": "2026-11-19",
+      "items": [
+        {
+          "id": "amap-B0I6FAIK3J-008",
+          "zh": "抹茶麻薯冰淇淋",
+          "en": "Matcha mochi ice cream",
+          "imageUrl": "/assets/featured-dishes/amap-B0I6FAIK3J-008.webp",
+          "imageSource": "https://m.dianping.com/shop/G3jyC1ewYjgyTBgJ/dish822089863",
+          "image": "/assets/featured-dishes/amap-B0I6FAIK3J-008.webp"
+        },
+        {
+          "id": "amap-B0I6FAIK3J-002",
+          "zh": "桑葚葡萄暴风雪",
+          "en": "Mulberry grape Blizzard",
+          "imageUrl": "/assets/featured-dishes/amap-B0I6FAIK3J-002.webp",
+          "imageSource": "https://m.dianping.com/shop/G3jyC1ewYjgyTBgJ/dish773415096",
+          "image": "/assets/featured-dishes/amap-B0I6FAIK3J-002.webp"
+        }
+      ]
+    }
+  }
+}

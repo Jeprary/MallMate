@@ -1,0 +1,69 @@
+{
+  "package": "@phosphor-icons/core",
+  "version": "2.1.1",
+  "weight": "regular",
+  "license": "MIT",
+  "sourceRepository": "https://github.com/phosphor-icons/core",
+  "files": [
+    {
+      "name": "microphone",
+      "url": "https://cdn.jsdelivr.net/npm/@phosphor-icons/core@2.1.1/assets/regular/microphone.svg",
+      "bytes": 362,
+      "sha256": "b49dabfaf603e82594cef0c5e5784c747f4c098b7723d2973c92965745ca93a9"
+    },
+    {
+      "name": "sliders-horizontal",
+      "url": "https://cdn.jsdelivr.net/npm/@phosphor-icons/core@2.1.1/assets/regular/sliders-horizontal.svg",
+      "bytes": 360,
+      "sha256": "1d937baa3bc51ec4052364edf30cf8991d550920534f5d413eb9f60535cc1916"
+    },
+    {
+      "name": "sparkle",
+      "url": "https://cdn.jsdelivr.net/npm/@phosphor-icons/core@2.1.1/assets/regular/sparkle.svg",
+      "bytes": 666,
+      "sha256": "9e2c17a26564098cb48dd95737a83c742156f755f13cedaa30f9d864d0e3eb76"
+    },
+    {
+      "name": "storefront",
+      "url": "https://cdn.jsdelivr.net/npm/@phosphor-icons/core@2.1.1/assets/regular/storefront.svg",
+      "bytes": 658,
+      "sha256": "b1e1288fc8b38ddf011dfc23a5f1754d30c296a56d143c67b4ed710ff58d8a62"
+    },
+    {
+      "name": "map-trifold",
+      "url": "https://cdn.jsdelivr.net/npm/@phosphor-icons/core@2.1.1/assets/regular/map-trifold.svg",
+      "bytes": 430,
+      "sha256": "2de856029430ca68cfd9c1d8c8c45255c8d998d7716630d362c1eec153548da6"
+    },
+    {
+      "name": "arrow-right",
+      "url": "https://cdn.jsdelivr.net/npm/@phosphor-icons/core@2.1.1/assets/regular/arrow-right.svg",
+      "bytes": 245,
+      "sha256": "e45bc4a12592b8723110db42c6deffdf177e4fe7704cf50324963fa0a59b2d74"
+    },
+    {
+      "name": "arrow-left",
+      "url": "https://cdn.jsdelivr.net/npm/@phosphor-icons/core@2.1.1/assets/regular/arrow-left.svg",
+      "bytes": 248,
+      "sha256": "3c2001cf957d182fc54927e4b286cc8cf66dd97830f441ca2650d42a63a9006a"
+    },
+    {
+      "name": "bookmark-simple",
+      "url": "https://cdn.jsdelivr.net/npm/@phosphor-icons/core@2.1.1/assets/regular/bookmark-simple.svg",
+      "bytes": 273,
+      "sha256": "493a836009ab98f8d4ca84f088cc03f2785cdee86daa1643e003865ff3168b41"
+    },
+    {
+      "name": "x",
+      "url": "https://cdn.jsdelivr.net/npm/@phosphor-icons/core@2.1.1/assets/regular/x.svg",
+      "bytes": 284,
+      "sha256": "7397b15e1fa66eaf6ff9b59fe91d483cb5c3bcf75b2fe052097ab6f0593b513a"
+    },
+    {
+      "name": "check",
+      "url": "https://cdn.jsdelivr.net/npm/@phosphor-icons/core@2.1.1/assets/regular/check.svg",
+      "bytes": 215,
+      "sha256": "cbb89a8c42f283d4f846eb935e05d88c1be04462f16480e068c0f82b9ce40b12"
+    }
+  ]
+}

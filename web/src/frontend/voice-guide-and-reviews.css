@@ -1,0 +1,134 @@
+.voice-entry-guide {
+ position:fixed;z-index:40;inset:0;pointer-events:none;
+ background:radial-gradient(ellipse 208px 186px at var(--voice-guide-x) var(--voice-guide-y),
+  rgb(39 39 39 / calc(var(--voice-guide-depth) - .08)),
+  rgb(33 33 33 / calc(var(--voice-guide-depth) - .05)) 36%,
+  rgb(22 22 22 / calc(var(--voice-guide-depth) - .02)) 65%,
+  rgb(17 17 17 / var(--voice-guide-depth)) 100%);
+}
+.arrival-sheet[data-shared-voice-backdrop]::backdrop { background:transparent; }
+.voice-guide-viewport-edge{display:none}
+/* Match Safari’s background sampling in the areas outside the visible viewport. */
+@media(max-width:750px) and (orientation:portrait){
+ html:has(.arrival-sheet.arrival-landing[open]:not([data-shared-voice-backdrop])){
+  /* #13271f52, the welcome backdrop, composited over white. */
+  --arrival-viewport-background:#b3bab7;
+ }
+ html:has(.voice-entry-guide){
+  --arrival-viewport-background:color-mix(in srgb,#111 calc(var(--voice-guide-depth,.72) * 100%),#fff);
+ }
+ html:has(.arrival-sheet.arrival-landing[open],.voice-entry-guide),
+ html:has(.arrival-sheet.arrival-landing[open],.voice-entry-guide) body{
+  background-color:var(--arrival-viewport-background);
+ }
+ html:not(:has(.arrival-sheet.arrival-landing[open])) .voice-guide-viewport-edge{
+  display:block;position:fixed;inset:auto 0 0;height:var(--arrival-edge-height,12px);z-index:41;
+  background-color:var(--arrival-viewport-background);pointer-events:none;
+ }
+ html:has(.voice-entry-guide[data-phase="leaving"]):not(:has(.arrival-sheet.arrival-landing[open])),
+ html:has(.voice-entry-guide[data-phase="leaving"]):not(:has(.arrival-sheet.arrival-landing[open])) body,
+ html:has(.voice-entry-guide[data-phase="leaving"]):not(:has(.arrival-sheet.arrival-landing[open])) .voice-guide-viewport-edge{
+  background-color:#fff;
+  transition:background-color var(--voice-guide-fade,340ms) cubic-bezier(.35,0,.25,1);
+ }
+}
+
+@media (forced-colors:active){html:not(:has(.arrival-sheet.arrival-landing[open])) .voice-guide-viewport-edge{display:none}}
+
+.voice-entry-guide[data-phase="leaving"] { opacity:0;transition:opacity var(--voice-guide-fade,340ms) cubic-bezier(.35,0,.25,1); }
+body[data-voice-guide] .discovery-home.is-new .assistant-dock { z-index:41; }
+body[data-voice-guide] .discovery-home.is-new .assistant-dock .voice-only-composer { background:transparent; }
+body[data-voice-guide] #voice-toggle[data-voice-state=idle]::before { opacity:.14; }
+.voice-entry-guide p {
+ position:absolute;top:var(--voice-guide-label-y);left:clamp(110px,var(--voice-guide-x),calc(100% - 110px));
+ margin:0;transform:translate(-50%,-50%);font-size:15px;font-weight:550;line-height:1.35;color:#fff;text-align:center;width:max-content;max-width:calc(100% - 32px);
+}
+[data-voice-guide-light] .voice-entry-guide p { color:#132720; }
+@keyframes voice-entry-hint {from{opacity:0}to{opacity:1}}
+.voice-entry-guide:is([data-phase="active"],[data-phase="leaving"]) p { animation:voice-entry-hint 380ms cubic-bezier(.22,1,.36,1) 220ms both; }
+@media (prefers-reduced-motion:reduce){.voice-entry-guide p{animation:none!important}.voice-entry-guide[data-phase="leaving"]{transition:none}}
+
+.store-detail.has-review-highlights .detail-facts { margin-bottom:5px; }
+.detail-review-score { display:flex;align-items:baseline;flex-wrap:wrap;gap:5px;font-size:14px;margin:0 0 19px;color:#263b32; }
+.detail-review-stars { display:inline-flex;gap:2px;font-size:.9em; }
+.detail-review-stars>span { background:linear-gradient(90deg,#825b31 var(--fill),#bac5bd var(--fill));background-clip:text;color:transparent; }
+.detail-review-count,.detail-review-meta { color:#51635a;font-size:12px; }
+.detail-featured-dishes,.detail-review-highlights { margin:0 0 20px; }
+.detail-featured-dishes h2,.detail-review-highlights h2 { margin:0 0 8px;font-size:18px;font-weight:600; }
+.detail-featured-dishes ul { display:grid;grid-auto-flow:column;grid-auto-columns:min(78%,264px);gap:12px;overflow-x:auto;scroll-snap-type:x mandatory;scroll-padding-inline:9px;scrollbar-width:none;margin:0 -9px;padding:3px 9px 12px;list-style:none; }
+.detail-featured-dishes ul:has(>li:only-child) { grid-auto-columns:min(100%,264px); }
+.detail-featured-dishes li { scroll-snap-align:start;min-width:0;border-radius:14px;overflow:hidden;background:#fff;color:#223c31;box-shadow:0 1px 3px rgb(23 44 37 / .06),0 8px 16px -7px rgb(23 44 37 / .19); }
+.detail-featured-dishes img { display:block;width:100%;height:auto;aspect-ratio:4/3;object-fit:cover;background:#eef2ed; }
+.detail-featured-dishes li p { margin:0;padding:9px 12px 11px;font-size:14px;font-weight:400;line-height:1.4;overflow-wrap:anywhere; }
+.detail-review-rail { display:grid;grid-auto-flow:column;grid-auto-columns:calc(100% - 24px);gap:10px;margin:0 -9px;padding:3px 9px 10px;list-style:none;overflow-x:auto;scroll-snap-type:x mandatory;scroll-padding-inline:9px;scrollbar-width:none; }
+.detail-review-rail:has(>li:only-child) { grid-auto-columns:100%; }
+.detail-review-rail>li { scroll-snap-align:start;min-width:0;border-radius:10px;background:#f7f8f5;padding:13px 15px;box-shadow:0 1px 3px rgb(23 44 37 / .06),0 8px 16px -7px rgb(23 44 37 / .19); }
+.detail-review-rail h3 { margin:0;font-size:13px;font-weight:550;color:#285c4b; }
+.detail-review-rail p { margin:5px 0 8px;font-size:16px;line-height:1.45;font-weight:400;overflow-wrap:anywhere; }
+.detail-review-meta { display:flex;justify-content:space-between;gap:8px; }
+.detail-review-meta [role=img] { font-variant-numeric:tabular-nums;font-weight:600;color:#263b32; }
+.detail-review-star { color:#825b31; }
+/* Keep details and their final action scrollable above the iPhone home indicator. */
+.detail-actions { display:grid;gap:12px; }
+.indoor-route-actions {
+ display:grid;flex:none;min-width:0;background:#101925;
+ padding:12px max(24px,env(safe-area-inset-right)) calc(12px + env(safe-area-inset-bottom)) max(24px,env(safe-area-inset-left));
+}
+.indoor-route-actions > a { display:grid;place-items:center;min-height:44px;text-align:center;text-decoration:none; }
+.indoor-route-status { margin:0 0 8px;text-align:center;font-size:.875rem;line-height:1.4;color:#dee8ef;overflow-wrap:anywhere; }
+.indoor-route-status:empty { margin:0; }
+.phone:not(.no-bottom-nav) .indoor-route-actions { margin-bottom:calc(84px + env(safe-area-inset-bottom)); }
+@media(max-width:750px),(max-height:560px) and (pointer:coarse){
+ .phone.no-bottom-nav:has(.store-detail)>.screen {
+  min-height:0;overscroll-behavior-y:contain;padding-bottom:0;
+  scroll-padding-block-end:env(safe-area-inset-bottom,0px);
+ }
+ .phone.no-bottom-nav .store-detail-content {
+  padding-bottom:calc(24px + env(safe-area-inset-bottom,0px));
+ }
+ .phone.no-bottom-nav .store-hero.no-photos {
+  min-height:calc(72px + env(safe-area-inset-top,0px));
+ }
+}
+
+/* The portrait detail uses Safari's document scroll and keeps Back reachable. */
+@media(max-width:750px) and (orientation:portrait){
+ #app .phone.no-bottom-nav:has(.store-detail){height:auto;min-height:100svh;overflow:visible}
+ #app .phone.no-bottom-nav:has(.store-detail)>.screen{flex:1 0 auto;overflow:visible;overscroll-behavior-y:auto}
+ #app .phone.no-bottom-nav .store-hero{isolation:auto}
+ #app .phone.no-bottom-nav .store-hero .gallery-slide{height:clamp(350px,66svh,620px)}
+ #app .phone.no-bottom-nav .store-hero.has-photos::before{display:none}
+ #app > .store-hero-safe-edge:not([hidden]){
+  --store-edge-paint:color-mix(in srgb,#fff var(--store-edge-progress,0%),var(--store-photo-color,#fff));
+  display:block;position:fixed;inset:0 0 auto;height:max(12px,env(safe-area-inset-top));
+  z-index:2;background-color:var(--store-edge-paint);pointer-events:none;
+ }
+ /* Allow enough photo into the top inset before handing its background back to Safari. */
+ #app > .store-hero-safe-edge[data-article-scrolled]{visibility:hidden}
+ #app > .store-hero-safe-edge::after{
+  content:"";position:absolute;top:100%;inset-inline:0;height:56px;
+  background:linear-gradient(var(--store-edge-paint),rgb(255 255 255 / var(--store-edge-progress,0%)) 38px,transparent);
+ }
+ #app .phone.no-bottom-nav .store-hero>.back-link{
+  position:fixed;z-index:3;
+  top:calc(8px + env(safe-area-inset-top));
+ }
+ #app .phone.no-bottom-nav .store-detail[data-store-edge-light] .store-hero>.back-link{
+  color:#172c25;filter:none;
+ }
+}
+.indoor-viewport-edge{display:none}
+@media(max-width:750px),(max-height:560px) and (pointer:coarse){
+ html:has(#app .indoor-page),body:has(#app .indoor-page),
+ #app:has(.indoor-page),#app .phone:has(.indoor-page),.indoor-page,.indoor-page .indoor-route-actions{
+  background-color:#080c13;
+ }
+ /* Give Safari separate opaque samples at each edge of the full-screen map. */
+ #app .indoor-viewport-edge{
+  position:fixed;display:block;inset-inline:0;z-index:3;
+  background:#080c13;pointer-events:none;
+ }
+ #app .indoor-viewport-edge.top{top:0;height:max(12px,env(safe-area-inset-top))}
+ #app .indoor-viewport-edge.bottom{bottom:0;height:max(12px,env(safe-area-inset-bottom))}
+}
+@media(forced-colors:active){#app .indoor-viewport-edge{display:none}}

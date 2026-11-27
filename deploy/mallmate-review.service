@@ -1,0 +1,25 @@
+[Unit]
+Description=MallMate assessor deployment
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+User=mallmate-review
+Group=mallmate-review
+WorkingDirectory=/opt/mallmate-review/web
+Environment=MALLMATE_PORT=8766
+Environment=MALLMATE_DATA_DIR=/var/lib/mallmate-review
+Environment=MALLMATE_EVENT_SYNC=local
+EnvironmentFile=/etc/mallmate-review/service.env
+ExecStart=/usr/bin/node server.js
+Restart=on-failure
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectHome=true
+ProtectSystem=strict
+StateDirectory=mallmate-review
+StateDirectoryMode=0700
+UMask=0077
+
+[Install]
+WantedBy=multi-user.target
